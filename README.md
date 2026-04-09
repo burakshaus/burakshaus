@@ -1,8 +1,5 @@
 # Hi there 👋 I'm Burak!
 
-### 🏆 Achievements
----
-
 ### 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats-red-mu.vercel.app/api?username=burakshaus&show_icons=true&theme=radical" alt="Burak's GitHub stats" width="400" />
