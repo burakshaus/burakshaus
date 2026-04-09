@@ -1,6 +1,12 @@
 # Hi there 👋 I'm Burak!
+
 ### 📊 GitHub Statistics
-![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakshaus&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats-red-mu.vercel.app/api?username=burakshaus&show_icons=true&theme=radical" alt="Burak's GitHub stats" width="400" />
+  <img src="https://github-readme-stats-red-mu.vercel.app/api/top-langs/?username=burakshaus&layout=compact&theme=radical" alt="Burak's Top Languages" width="400" />
+</p>
+
+---
 
 ### 💻 Professional Profile
 - 🔭 **Current Project:** Developing a GUI Calculator in **C++** using the **Qt** framework.
