@@ -1,9 +1,19 @@
 # Hi there 👋 I'm Burak!
 
+### 🏆 Achievements
+[![trophy](https://github-profile-trophy.vercel.app/?username=burakshaus&theme=radical&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ### 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats-red-mu.vercel.app/api?username=burakshaus&show_icons=true&theme=radical" alt="Burak's GitHub stats" width="400" />
   <img src="https://github-readme-stats-red-mu.vercel.app/api/top-langs/?username=burakshaus&layout=compact&theme=radical" alt="Burak's Top Languages" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=burakshaus&theme=radical" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=burakshaus&theme=radical&bg_color=141321&hide_border=true" alt="Activity Graph" width="400" />
 </p>
 
 ---
