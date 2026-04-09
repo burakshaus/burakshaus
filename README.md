@@ -1,17 +1,19 @@
 # Hi there 👋 I'm Burak!
 
-### 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats-eight.vercel.app/api?username=burakshaus&show_icons=true&theme=tokyonight)
+### 📊 My GitHub Activity
+![GitHub Stats](https://github-readme-stats-six.vercel.app/api?username=burakshaus&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats-eight.vercel.app/api/top-langs/?username=burakshaus&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-six.vercel.app/api/top-langs/?username=burakshaus&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=burakshaus&theme=tokyonight)
 
 ---
 
-### 🚀 About Me
-- 🔭 **Working on:** A GUI Calculator application in **C++** using **Qt**.
+### 💻 Professional Profile
+- 🔭 **Current Project:** Developing a GUI Calculator in **C++** using the **Qt** framework.
 - 🎓 **Education:** Preparing for a Master’s in Informatik at **Landshut University of Applied Sciences**.
-- 🌱 **Learning:** Deepening my knowledge in **Embedded Systems**.
-- ⚡ **Goal:** Seeking a **Werkstudent** role at companies like **Jungheinrich**.
+- 🌱 **Specialization:** Focusing on **Embedded Systems** and low-level programming.
+- ⚡ **Career Goal:** Aiming for a **Werkstudent** position at **Jungheinrich** in Moosburg.
 
 ---
 
@@ -20,8 +22,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux_Mint-2FDF5C?style=for-the-badge&logo=linux-mint&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📫 Reach me
-- 📍 Currently in: **Moosburg / Munich, Germany**
+### 📫 Let's Connect
+- 📍 Currently based in: **Moosburg / Munich, Germany**
