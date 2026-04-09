@@ -6,6 +6,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=burakshaus&theme=tokyonight)
 ![My GitHub Metrics](https://metrics.lecoq.io/burakshaus?template=classic&config.timezone=Europe%2FBerlin)
+### 📊 My Real-time Stats
+![GitHub Metrics](https://github.com/burakshaus/burakshaus/blob/master/github-contribution-grid-snake.svg) 
+![My Stats](github-metrics.svg)
 
 ### 💻 Professional Profile
 - 🔭 **Current Project:** Developing a GUI Calculator in **C++** using the **Qt** framework.
