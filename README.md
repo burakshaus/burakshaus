@@ -1,13 +1,10 @@
 # Hi there 👋 I'm Burak!
+### 📊 GitHub Statistics
+![GitHub Stats](https://nice-readme.vercel.app/api/stats?username=burakshaus&theme=tokyonight&show_icons=true)
 
-### 📊 My GitHub Activity
-![GitHub Stats](https://github-readme-stats-six.vercel.app/api?username=burakshaus&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-six.vercel.app/api/top-langs/?username=burakshaus&layout=compact&theme=tokyonight)
+![Top Langs](https://nice-readme.vercel.app/api/languages?username=burakshaus&theme=tokyonight&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=burakshaus&theme=tokyonight)
-
----
 
 ### 💻 Professional Profile
 - 🔭 **Current Project:** Developing a GUI Calculator in **C++** using the **Qt** framework.
