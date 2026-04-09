@@ -3,7 +3,7 @@
 ### 🏆 Achievements
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=burakshaus&theme=radical&no-lvl=true&no-bg=true&column=7" alt="trophy" />
+    <img src="https://github-profile-trophy-two-beta.vercel.app/?username=burakshaus&theme=radical&no-lvl=true&no-bg=true&column=7" alt="trophy" />
   </a>
 </p>
 
