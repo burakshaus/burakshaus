@@ -5,6 +5,7 @@
 ![Top Langs](https://nice-readme.vercel.app/api/languages?username=burakshaus&theme=tokyonight&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=burakshaus&theme=tokyonight)
+![My GitHub Metrics](https://metrics.lecoq.io/burakshaus?template=classic&config.timezone=Europe%2FBerlin)
 
 ### 💻 Professional Profile
 - 🔭 **Current Project:** Developing a GUI Calculator in **C++** using the **Qt** framework.
