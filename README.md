@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Burak!
 ### 📊 GitHub Statistics
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-burakshaus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Burak's GitHub stats](https://github-readme-stats.vercel.app/api?username=burakshaus&show_icons=true&theme=radical)
 
 ### 💻 Professional Profile
 - 🔭 **Current Project:** Developing a GUI Calculator in **C++** using the **Qt** framework.
