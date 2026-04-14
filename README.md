@@ -9,10 +9,10 @@
 
 ### 💻 Professional Profile
 
-- 🔭 **Current Project:** Developing a high-performance **GUI Calculator** in **C++** using the **Qt** framework.
+- 🔭 **Current Project:** Building a high-performance **GUI Calculator** in **C++** with the **Qt** framework.
 - 🎓 **Education:** Preparing for a Master’s in **Informatik** at **Landshut University of Applied Sciences** 🇩🇪.
-- 🌱 **Focus Area:** Specializing in **Embedded Systems**, Real-Time Operating Systems (RTOS), and Low-Level Programming.
-- ⚡ **Career Goal:** Aiming for a **Werkstudent** position at **Jungheinrich** in Moosburg to contribute to automated warehouse technologies.
+- 🌱 **Specialization:** Focusing on **Embedded Systems**, Real-Time Operating Systems (RTOS), and Low-Level Programming.
+- ⚡ **Career Goal:** Aiming for a **Werkstudent** position at **Jungheinrich** in Moosburg.
 
 ---
 
@@ -20,24 +20,24 @@
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) |
-| **Frameworks** | ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white) |
-| **OS & Tools** | ![Linux Mint](https://img.shields.io/badge/Linux_Mint-2FDF5C?style=flat&logo=linux-mint&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white) |
-| **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white) |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) |
+| **Frameworks** | ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white) |
+| **OS & Tools** | ![Linux Mint](https://img.shields.io/badge/Linux_Mint-2FDF5C?style=for-the-badge&logo=linux-mint&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) |
+| **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 
 ---
 
 ### 🚀 Roadmap & Learning
-- [ ] Complete **Qt Calculator** with unit tests.
-- [ ] Achieve **IELTS 6.5+** for University application.
-- [ ] Build a **Remote-Controlled Car** using C++ and local hardware.
-- [ ] Start Master's degree at **HS Landshut**.
+- [ ] Complete **Qt Calculator** project.
+- [ ] Achieve **IELTS 6.5+** band score.
+- [ ] Build a **C++ based Remote-Controlled Car**.
+- [ ] Relocate to **Moosburg** for Master's studies.
 
 ---
 
 ### 📫 Let's Connect
 - 📍 **Location:** Moosburg / Munich, Germany
-- ⚡ **Fun Fact:** I prefer building my own tools in **Neovim** on **Linux Mint**.
+- ⚡ **Fun Fact:** I'm a dedicated **Linux Mint** user and **Neovim** enthusiast.
 
 <p align="left">
   <a href="https://github.com/burakshaus">
