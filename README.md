@@ -1,45 +1,37 @@
-# Hi there 👋 I'm Burak!
+# Hi there, I'm Burak! 👋
 
-<p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=burakshaus&show_icons=true&theme=tokyonight)width="400" />
-</p>
+I am a **Computer Engineering** graduate focused on **Embedded Systems**, **Low-Level Programming**, and **IoT**. Currently, I'm honing my skills in Modern C++ and preparing for international opportunities.
 
----
+### 🛠 Tech Stack & Tools
 
-### 💻 Professional Profile
-
-- 🔭 **Current Project:** Building a high-performance **GUI Calculator** in **C++** with the **Qt** framework.
-- 🎓 **Education:** Preparing for a Master’s in **Informatik** at **Landshut University of Applied Sciences** 🇩🇪.
-- 🌱 **Specialization:** Focusing on **Embedded Systems**, Real-Time Operating Systems (RTOS), and Low-Level Programming.
-- ⚡ **Career Goal:** Aiming for a **Werkstudent** position at **Jungheinrich** in Moosburg.
+- **Languages:** C++, C, Java
+- **Standards:** C++20, C++23
+- **Environments:** Linux (Ubuntu), Neovim
+- **Hardware:** Arduino, STM32 (Learning), Robotics DIY
 
 ---
 
-### 🛠️ Tech Stack
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) |
-| **Frameworks** | ![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white) |
-| **OS & Tools** | ![Linux Mint](https://img.shields.io/badge/Linux_Mint-2FDF5C?style=for-the-badge&logo=linux-mint&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white) |
-| **Hardware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
-
----
-
-### 🚀 Roadmap & Learning
-- [ ] Complete **Qt Calculator** project.
-- [ ] Achieve **IELTS 6.5+** band score.
-- [ ] Build a **C++ based Remote-Controlled Car**.
-- [ ] Relocate to **Moosburg** for Master's studies.
-
----
-
-### 📫 Let's Connect
-- 📍 **Location:** Moosburg / Munich, Germany
-- ⚡ **Fun Fact:** I'm a dedicated **Linux Mint** user and **Neovim** enthusiast.
+### 📊 GitHub Statistics
 
 <p align="left">
-  <a href="https://github.com/burakshaus">
-    <img src="https://img.shields.io/github/followers/burakshaus?label=Follow&style=social" />
-  </a>
+  <img src="https://github-readme-stats-fy6j.vercel.app/api?username=burakshaus&show_icons=true&theme=tokyonight" alt="Burak's GitHub Stats" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-stats-fy6j.vercel.app/api/top-langs/?username=burakshaus&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🔭 Currently Working On
+- 🚀 Mastering **Modern C++ (C++20/23)** principles.
+- 🤖 Building a **Mini Laboratory** for robotics and electronics.
+- 📚 Preparing for the **IELTS** exam.
+
+### 📫 How to reach me
+- **LinkedIn:** [Your LinkedIn Profile Link]
+- **Email:** [Your Email Address]
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”*
