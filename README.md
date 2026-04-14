@@ -1,20 +1,30 @@
 # Hi there, I'm Burak! 👋
 
-I am a **Computer Engineering** graduate focused on **Embedded Systems**, **Low-Level Programming**, and **IoT**. Currently, I'm honing my skills in Modern C++ and preparing for international opportunities.
-
-### 🛠 Tech Stack & Tools
-
-- **Languages:** C++, C, Java
-- **Standards:** C++20, C++23
-- **Environments:** Linux (Ubuntu), Neovim
-- **Hardware:** Arduino, STM32 (Learning), Robotics DIY
+I am a **Computer Engineering** graduate specializing in **Embedded Systems** and **Model-Based Applications**. I am passionate about low-level programming, Modern C++, and bridging software with hardware environments.
 
 ---
 
-### 📊 GitHub Statistics
+### 🎓 Graduation Project: Walletify
+**Walletify** is a model-based financial management application designed to provide structured data analysis and tracking.
+- Developed using a **model-based architecture** to ensure scalability and data integrity.
+- Focused on efficient data processing and user-centric financial modeling.
+- Implementation involved structured software design patterns and robust backend logic.
+
+---
+
+### 🛠 Tech Stack & Tools
+
+- **Languages:** C++ (C++20/23), C, Java
+- **Operating Systems:** Linux (Ubuntu/Debian) - Proficient in terminal-based development.
+- **Development Tools:** Neovim (nvim), GCC/G++, Git/GitHub.
+- **Hardware & IoT:** Arduino, Electronics Lab Setup, Robotics Enthusiast.
+
+---
+
+### 📊 GitHub Activity & Repository Summary
 
 <p align="left">
-  <img src="https://github-readme-stats-fy6j.vercel.app/api?username=burakshaus&show_icons=true&theme=tokyonight" alt="Burak's GitHub Stats" />
+  <img src="https://github-readme-stats-fy6j.vercel.app/api?username=burakshaus&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
@@ -23,15 +33,11 @@ I am a **Computer Engineering** graduate focused on **Embedded Systems**, **Low-
 
 ---
 
-### 🔭 Currently Working On
-- 🚀 Mastering **Modern C++ (C++20/23)** principles.
-- 🤖 Building a **Mini Laboratory** for robotics and electronics.
-- 📚 Preparing for the **IELTS** exam.
-
-### 📫 How to reach me
-- **LinkedIn:** [Your LinkedIn Profile Link]
-- **Email:** [Your Email Address]
+### 🔭 Current Focus & Future Goals
+- **Embedded Mastery:** Building a personal robotics laboratory for hardware-software integration projects.
+- **Modern C++:** Implementing advanced algorithms using C++20 standards.
+- **IELTS Preparation:** Enhancing English proficiency for global engineering opportunities.
 
 ---
 
-*“Code is like humor. When you have to explain it, it’s bad.”*
+*“The soul of the department is the laboratory.”*
