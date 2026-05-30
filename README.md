@@ -15,7 +15,7 @@ I am a **Computer Engineering** graduate specializing in **Embedded Systems** an
 ### 🛠 Tech Stack & Tools
 
 - **Languages:** C++ (C++20/23), C, Java
-- **Operating Systems:** Linux (Ubuntu/Debian) - Proficient in terminal-based development.
+- **Operating Systems:** Linux (Mint) - Proficient in terminal-based development.
 - **Development Tools:** Neovim (nvim), GCC/G++, Git/GitHub.
 - **Hardware & IoT:** Arduino, Electronics Lab Setup, Robotics Enthusiast.
 
